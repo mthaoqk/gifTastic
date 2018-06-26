@@ -46,6 +46,7 @@ hr {
 }
 #search-form {
     float:right;
+    position:fixed;
 }
 #goal {
     text-align: center;
